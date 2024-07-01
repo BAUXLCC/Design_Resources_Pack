@@ -8,7 +8,6 @@ An evolving list of design resources, news, blogs, inspiration, tools, and more
 
 <br>
 <br>
-<br>
 
 ## Design News and Blogs
 
