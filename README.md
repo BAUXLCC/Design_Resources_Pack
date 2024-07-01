@@ -11,11 +11,14 @@ An evolving list of design resources, news, blogs, inspiration, tools, and more
 <br>
 
 ## Design News and Blogs
+<br>
 
 ### **UK**
 * [It's Nice That](https://www.itsnicethat.com/)
 * [Design Council](https://www.designcouncil.org.uk/)
 * [Design Week](https://www.designweek.co.uk/landing-page/design-news/)
+
+<br>
 
 ### **Global**
 * [AIGA](https://eyeondesign.aiga.org/)
@@ -23,57 +26,74 @@ An evolving list of design resources, news, blogs, inspiration, tools, and more
 * [Creative Review](https://www.creativereview.co.uk/)
 * [Yanko Design](https://www.yankodesign.com/) - Product & Concept design
 
+<br>
+
 ### **Blogs**
 * [UX Collective](https://uxdesign.cc/)
 * [Creative Bloq](https://www.creativebloq.com/)
 * [MIT Media Labs](https://www.media.mit.edu/)
 
+<br>
+
 ---
 ## Design Inspiration
+<br>
 
 ###  **Visual & Graphic Design**
 * [Abduzeedo](https://abduzeedo.com/node/82326)
 * [Designspiration](https://www.designspiration.com/search/saves/?q=dremmel&qa=typed&term_meta%5B%5D=dremmel%7Ctyped%7Cword%7C0) - Design specific alternative to Pinterest
 * [Design-By-Women](https://designby-women.com/)
 * [Fuse](https://www.fuse.kiwi/ball-pit)
+<br>
 
 ### **Product**
 * [Yanko Design](https://www.yankodesign.com/)
+<br>
 
 ### **Web & App Design**
 * [Awwwards](https://t.co/qYUzVE4MLb)
+<br>
 
 ### **Data Visualisation**
 * [InformationIsBeautiful](https://informationisbeautiful.net/topic/arts-culture/)
+<br>
 
 ### **Physical Computing**
 * [Google Experiments](https://experiments.withgoogle.com/) - Web & Physical computing projects and tutorials
+<br>
 
 ---
 
 ## Fun and Useful Tools
+<br>
 
 ### **UAL Tools**
 * [Cite Them Right](https://www.citethemrightonline.com/category-list?docid=CTRHarvard) - Harvard referencing for your process books  
+<br>
 
 ### **Colour & Pattern Generators**
 * [Coolors](https://coolors.co/) - Colour palette generator tools
 * [fffuel](https://fffuel.co/) - Collection of colour, gradient and pattern generators 
+<br>
 
 ### **Data Visualisation**
 * [DataVizProject](https://datavizproject.com/) - List of common ways to visual data 
+<br>
 
 ### **Typography**
 * [Archetype](https://archetypeapp.com/#) - Web typesetting tool
 * [Google fonts](https://fonts.google.com/knowledge/using_type_in_ar_and_vr?ref=heydesigner)
+<br>
 
 ### **UX Theory**
 * [UXMyths](https://uxmyths.com/) - Commonly thought myths and misconceptions of UX design
 * [https://www.boredpanda.com/funny-worst-input-fields/](https://www.boredpanda.com/funny-worst-input-fields/)
 * [https://sharpen.design/](https://sharpen.design/) - Challenge statements
+<br>
 
 **Design Challenges**
 
+<br>
 
 ### **Skill Games**
 * [The Boolean game](https://boolean.method.ac/) - Get to understand the boolean tools(union,subtract,intersect,difference) found in most design software
