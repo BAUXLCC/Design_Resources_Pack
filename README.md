@@ -32,6 +32,7 @@ An evolving list of design resources, news, blogs, inspiration, tools, and more
 * [MIT Media Labs](https://www.media.mit.edu/)
 
 <br>
+
 ---
 <br>
 
@@ -60,6 +61,7 @@ An evolving list of design resources, news, blogs, inspiration, tools, and more
 * [Google Experiments](https://experiments.withgoogle.com/) - Web & Physical computing projects and tutorials
   
 <br>
+
 ---
 <br>
 
