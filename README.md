@@ -11,13 +11,11 @@ An evolving list of design resources, news, blogs, inspiration, tools, and more
 <br>
 
 ## Design News and Blogs
-<br>
 
 ### **UK**
 * [It's Nice That](https://www.itsnicethat.com/)
 * [Design Council](https://www.designcouncil.org.uk/)
 * [Design Week](https://www.designweek.co.uk/landing-page/design-news/)
-
 <br>
 
 ### **Global**
@@ -34,10 +32,10 @@ An evolving list of design resources, news, blogs, inspiration, tools, and more
 * [MIT Media Labs](https://www.media.mit.edu/)
 
 <br>
-
 ---
-## Design Inspiration
 <br>
+
+## Design Inspiration
 
 ###  **Visual & Graphic Design**
 * [Abduzeedo](https://abduzeedo.com/node/82326)
@@ -60,12 +58,12 @@ An evolving list of design resources, news, blogs, inspiration, tools, and more
 
 ### **Physical Computing**
 * [Google Experiments](https://experiments.withgoogle.com/) - Web & Physical computing projects and tutorials
+  
 <br>
-
 ---
+<br>
 
 ## Fun and Useful Tools
-<br>
 
 ### **UAL Tools**
 * [Cite Them Right](https://www.citethemrightonline.com/category-list?docid=CTRHarvard) - Harvard referencing for your process books  
