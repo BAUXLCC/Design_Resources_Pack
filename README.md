@@ -1,12 +1,13 @@
 # Design_Resources_Pack
 An evolving list of design resources, news, blogs, inspiration, tools, and more
 
-#Contents
- - [Design-News](#design-news+blogs)
- - [Design-Inspiration](#design-inspiration)
+# Contents
+ - [Design News](#design-news-and-blogs)
+ - [Design Inspiration](#design-inspiration)
+ - [Fun and Useful Tools](#fun-and-useful-tools)
 
 
-##Design-News+Blogs
+## Design News and Blogs
 
 **UK**
 [It's Nice That](https://www.itsnicethat.com/)
@@ -25,7 +26,7 @@ An evolving list of design resources, news, blogs, inspiration, tools, and more
 [MIT Media Labs](https://www.media.mit.edu/)
 
 ---
-##Design-Inspiration
+## Design Inspiration
 
 **Visual & Graphic Design**
 [Abduzeedo](https://abduzeedo.com/node/82326)
@@ -44,3 +45,35 @@ An evolving list of design resources, news, blogs, inspiration, tools, and more
 
 **Physical Computing**
 [Google Experiments](https://experiments.withgoogle.com/) - Web & Physical computing projects and tutorials
+
+---
+
+## Fun and Useful Tools
+
+**UAL Tools**
+[Cite Them Right](https://www.citethemrightonline.com/category-list?docid=CTRHarvard) - Harvard referencing for your process books  
+
+**Colour & Pattern Generators**
+[Coolors](https://coolors.co/) - Colour palette generator tools
+[fffuel](https://fffuel.co/) - Collection of colour, gradient and pattern generators 
+
+**Data Visualisation**
+[DataVizProject](https://datavizproject.com/) - List of common ways to visual data 
+
+**Typography**
+[Archetype](https://archetypeapp.com/#) - Web typesetting tool
+[Google fonts](https://fonts.google.com/knowledge/using_type_in_ar_and_vr?ref=heydesigner)
+
+**UX Theory**
+[UXMyths](https://uxmyths.com/) - Commonly thought myths and misconceptions of UX design
+[https://www.boredpanda.com/funny-worst-input-fields/](https://www.boredpanda.com/funny-worst-input-fields/)
+[https://sharpen.design/](https://sharpen.design/) - Challenge statements
+
+**Design Challenges**
+
+
+**Skill Games**
+[The Boolean game](https://boolean.method.ac/) - Get to understand the boolean tools(union,subtract,intersect,difference) found in most design software
+[The Bezier game](https://bezier.method.ac/) - Understand how to create curves and shapes with a pen tool
+[Colour Matching game](https://color.method.ac/) - Test your colour theory and colour matching skills
+[https://userinyerface.com/](https://userinyerface.com/)
